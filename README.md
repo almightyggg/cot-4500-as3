@@ -7,7 +7,7 @@
 This repository contains Python implementations of numerical methods for solving ordinary differential equations (ODEs). The implemented methods include:
 
 - **Euler Method**: A simple first-order numerical procedure for solving initial value problems.
-- **Runge-Kutta Method (RK4)**: A higher-order method that provides better accuracy.
+- **Runge-Kutta Method**: a numerical technique used to approximate solutions to initial value problems of differential equations.
 
 ### Problem Statement
 The differential equation given is:
@@ -43,9 +43,3 @@ Euler Method Result: 1.2446380979332121
 Runge-Kutta Method Result: 1.251316587879806
 ```
 
-### Dependencies
-- Python 3.x
-- NumPy (optional but recommended for further extensions)
-
-### License
-This project is for educational purposes only and is released under the MIT License.
