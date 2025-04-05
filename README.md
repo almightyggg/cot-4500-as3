@@ -23,23 +23,7 @@ The goal is to approximate the value of \( f(2) \) using both numerical methods.
 
 ### Files
 - `numerical_methods.py`: Contains the implementation of Euler and Runge-Kutta methods.
-- `README.md`: Provides an overview of the project.
 - `requirements.txt`: Lists required dependencies (only NumPy is included if needed).
 
-### Installation & Usage
-To ensure all dependencies are installed, run:
-```bash
-pip install -r requirements.txt
-```
 
-To execute the program, use the following command:
-```bash
-python numerical_methods.py
-```
-
-### Expected Output
-```
-Euler Method Result: 1.2446380979332121
-Runge-Kutta Method Result: 1.251316587879806
-```
 
